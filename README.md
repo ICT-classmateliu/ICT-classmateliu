@@ -1,4 +1,9 @@
-## Hi there 👋
+<!-- 这是单行注释 -->
+<!-- 这是单行注释 -->
+<h1>😎 Hey! Glad to see you here</h1>
+
+<p>Welcome to my page! 
+</br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 
 <!--
 **ICT-classmateliu/ICT-classmateliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
