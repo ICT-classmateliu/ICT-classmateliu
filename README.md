@@ -21,8 +21,16 @@
 
 <br/>
 
-<!-- Real-time weather -->
-![Shanghai Weather](https://wttr.in/Shanghai?format=3&lang=zh&m)
+<!-- Here shows where to find me -->
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/ICT-classmateliu" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="mailto:classmateliu1@outlook.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **ICT-classmateliu/ICT-classmateliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
