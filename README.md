@@ -24,10 +24,10 @@
 <!-- Here shows where to find me -->
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/ICT-classmateliu" target="_blank">
+  <a href="https://github.com/ICT-classmateliu" target="_blank" style="text-decoration:none;display:inline-block;margin-right:8px;">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="mailto:classmateliu1@outlook.com" target="_blank">
+  <a href="mailto:classmateliu1@outlook.com" target="_blank" style="text-decoration:none;display:inline-block;">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
