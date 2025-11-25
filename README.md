@@ -27,9 +27,9 @@
   <a href="https://github.com/ICT-classmateliu" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <span style="display:inline-block;margin-left:8px;font-weight:bold;">
-    classmateliu1@outlook.com
-  </span>
+  <a href="mailto:classmateliu1@outlook.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 <!--
